@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/myreactpage/static/css/main.ecfcd801.css",
-    "main.js": "/myreactpage/static/js/main.569e813d.js",
-    "static/media/Profile_Picture_1.jpg": "/myreactpage/static/media/Profile_Picture_1.c5348151db858f83d2a0.jpg",
-    "index.html": "/myreactpage/index.html",
-    "main.ecfcd801.css.map": "/myreactpage/static/css/main.ecfcd801.css.map",
-    "main.569e813d.js.map": "/myreactpage/static/js/main.569e813d.js.map"
+    "main.css": "/6m-software-2.1-react-intro-assignment1/static/css/main.ecfcd801.css",
+    "main.js": "/6m-software-2.1-react-intro-assignment1/static/js/main.4f171ee2.js",
+    "static/media/Profile_Picture_1.jpg": "/6m-software-2.1-react-intro-assignment1/static/media/Profile_Picture_1.c5348151db858f83d2a0.jpg",
+    "index.html": "/6m-software-2.1-react-intro-assignment1/index.html",
+    "main.ecfcd801.css.map": "/6m-software-2.1-react-intro-assignment1/static/css/main.ecfcd801.css.map",
+    "main.4f171ee2.js.map": "/6m-software-2.1-react-intro-assignment1/static/js/main.4f171ee2.js.map"
   },
   "entrypoints": [
     "static/css/main.ecfcd801.css",
-    "static/js/main.569e813d.js"
+    "static/js/main.4f171ee2.js"
   ]
 }
